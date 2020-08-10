@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(217, 245, 255);
+  }
+  
+  h1 {
+    color: navy;
+  }
+
+  h2 {
+    color: rgb(255, 30, 0);
+  }
+  
+  h3 {
+    color: green;
+  }
+  
+  p {
+      color: black;
+  }
